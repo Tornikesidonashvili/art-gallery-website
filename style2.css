@@ -1,0 +1,220 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.coin2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%; 
+    text-decoration: none;
+    
+}
+
+.span{
+    font-size: 20px;
+    line-height: 23.94px;
+    font-weight: 800;
+    color: white;
+    margin: auto;  
+}
+.click{
+    display: flex;
+    background-color: #151515;
+    width: 234px;
+    height: 72px;
+   position: absolute;
+   
+}
+.main2{
+    background-color: #D5966C;
+    width: 56px;
+    height: 72px;
+    display: flex;
+  
+    
+}
+.photo3{
+    margin: auto;
+
+}
+    
+
+.photomap{
+    margin: 0;
+}
+.text7{
+    font-size: 40px;
+    line-height: 45px;
+    font-weight: 900;
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-left: 16px;
+    margin: 0;
+}
+.text8{
+    color: #D5966C;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 32px;
+    padding-left: 16px;
+
+}
+.blackphoto{
+    background-color: #151515;
+    width: 375px;
+    height: 493px;
+    margin: 0;
+    margin-top: -7px;
+
+
+}
+.text9{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin: 0;
+    padding-left: 16px;
+
+}
+.text10{
+    width: 90%;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 300px;
+    color: white;
+    padding-left: 16px;
+}
+.orangetext{
+    background-color: #D5966C;
+    width: 375px;
+    height: 336px;
+
+}
+.photologo{
+    padding-top: 50px;
+    padding-left: 32px;
+}
+.text11{
+    width: 80%;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    color: #151515;
+    padding-left: 32px;
+}
+.instagram{
+    width: 20px;
+    height: 20px;
+}
+.facebook{
+    width: 20px;
+    height: 20px;
+}
+.twitter{
+    width: 20px;
+    height: 20px;
+} 
+.photo8{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    padding-left: 32px;
+   
+}  
+@media (min-width: 750px){
+ .photomap{
+    width: 100%;
+ }
+ .text7{
+    width: 350px;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 70px;
+ }
+ .blackphoto{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+ }
+ .orangetext{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    height: 50%;
+ }
+ .mapdiv{
+    display: flex;
+    
+ }
+ .coin2{
+    display: flex;
+    
+ }
+ .click{
+    margin-left: 39px;
+    width: 280px;
+ }  
+ .photologo{
+    width: 110.05px;
+    height: 40px;
+ }
+ .text11{
+    width: 270px;
+
+ }
+ .photo8{
+    width: 15%;
+ }
+ .ending{
+    display: flex;
+    align-items: center;
+    height: 216px;
+    background-color: #D5966C;
+ }
+ .blackphoto{
+    height: 548px;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.text7{
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 70px;
+    margin-top: -70px;
+}
+.text8{
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 36px;
+    width: 350px;
+    
+}
+.text10{
+   width: 540px;
+   
+   
+}
+.textall{
+    padding-left: 300px;
+    margin-top: -70px;
+}
+ .text11{
+    width: 430px;
+
+ }
+ .photologo{
+    margin-top: -20px;
+
+ }
+ .photo8{
+    width: 120px;
+ }
+ .click{
+    margin-left: 180px;
+ }
+ 
+}   

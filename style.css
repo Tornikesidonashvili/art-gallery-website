@@ -1,0 +1,320 @@
+body{
+    background-color: white;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+.main{
+    width: 100%;
+}
+.photo2{
+    width: 343px;
+    height: 110px;
+    padding-left: 15px;
+    
+}
+.text1{
+font-weight: 300;
+font-size: 18px;
+line-height: 28px;
+ color: #444444;
+ width: 343px;
+ margin: auto;
+}
+
+.click{
+    display: flex;
+    background-color: #151515;
+    width: 234px;
+    height: 72px;
+   margin-left: 15px;
+}
+.main2{
+    background-color: #D5966C;
+    width: 56px;
+    height: 72px;
+    display: flex;
+  
+    
+}
+.coin2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%; 
+    text-decoration: none;
+    
+}
+
+.span{
+    font-size: 20px;
+    line-height: 23.94px;
+    font-weight: 800;
+    color: white;
+    margin: auto;  
+}
+.photo3{
+    margin: auto;
+}
+.photo4{
+    display: block;
+    margin: auto;
+    
+}
+.text2{
+    font-weight: 900;
+    font-size: 40px;
+    color: #151515;
+    width: 90%;
+    margin: auto;
+    line-height: 45px;
+   
+}
+.text3{
+    color: #444444;
+    font-size: 18px;
+    font-weight: 300;
+    width: 343px;
+    padding-left: 20px;
+    line-height: 28px;
+    
+}
+.photo5{
+    display: block;
+    margin: auto;
+}
+.photo6{
+    display: block;
+    margin: auto;
+}
+
+  
+   
+.main4{
+    background-color: #151515;
+    width: 343px;
+    height: 293px;
+   margin: auto;
+   margin-bottom: 60px;
+    
+
+}
+.text4{
+ font-weight: 900;
+ font-size: 40px;
+ line-height: 45px;
+ color: white;
+ padding-top: 40px;
+ padding-left: 20px;
+ margin: 0;
+ 
+ 
+
+}
+.text5{
+    font-size: 18px;
+    font-weight: 300px;
+    line-height: 28px;
+    width: 295px;
+    color: white;
+    margin-left: 24px;
+}
+.main5{
+    background-color: #151515;
+    width: 100%;
+    height: 336px;
+}
+.photo7{
+    padding-left: 25px;
+}
+.text6{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    color: white;
+    width: 311px;
+    padding-left: 25px;
+}
+.instagram{
+    width: 20px;
+    height: 20px;
+
+    
+    
+    
+}
+.photo8{
+    display: flex;
+    justify-content: space-around;
+     padding-left: 20px;
+     width: 30%;
+   
+}    
+.facebook{
+    width: 20px;
+    height: 20px;
+}
+.twitter{
+    width: 20px;
+    height: 20px;
+}
+@media ( min-width: 750px   ){
+ .main{
+    display: flex;
+    align-items: center;
+ }
+ .main6{
+    margin-left: -70px;
+    
+ }
+ .text1{
+    padding-top: 20px;
+
+ }
+ .photo2{
+    padding-bottom: 30px;
+ }
+ .text2{
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    width: 240px;
+    
+    
+ }
+ .text3{
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 300;
+    width: 240px;
+ }
+.ipad{
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    margin: auto;
+    
+    
+}
+.ipadphoto{
+ order: 2;
+} 
+.text12{
+    order: 1;
+    padding-right: 50px;
+}
+.ipadphoto1{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: center;
+    gap: 10px;
+}
+.text4{
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 45px;
+}
+.main4{
+    width: 280px;
+    height: 396px;
+
+}
+.text5{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    width: 223px;
+
+}
+.ipadphoto2{
+    margin: 0;
+}
+.photo5{
+    padding-top: 20px;
+}
+.main5{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+.photo7{
+    width: 110px;
+    height: 40px;
+}
+.photo8{
+   width: 15%;
+}
+}
+@media (min-width: 1400px){
+  .blackground{
+    background-color: #151515;
+    width: 450px;
+    height: 799px;
+  }
+  .photo2{
+    margin-left: -699px;
+    
+  }
+  .main6{
+    display: flex;
+    flex-direction: column;
+    height: 27vh;
+    
+    
+  }
+  .text1{
+    margin-top: -200px;
+    width: 350px;
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 300;
+    
+  }
+  
+  .icon2{
+   
+  }
+  .main4{
+    width: 445px;
+    height: 377ox;
+
+  }
+  .text12{
+    width: 350px;
+    height: 280px;
+  }
+  .text2{
+    margin: 0;
+    width: 350px;
+    height: 120px;
+    padding-left: 16px;
+  }
+  .text3{
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 300;
+    width: 350px;
+    padding-top: 20px;
+  }
+  .text6{
+    width: 430px;
+
+  }
+  .photo7{
+    width: 159.57px;
+    height: 58px;
+  }
+  .photo8{
+    display: flex;
+    justify-content: space-around;
+    width: 120px;
+  }
+  .coin2{
+    width: 100%;
+  }
+  
+   
+  
+}
